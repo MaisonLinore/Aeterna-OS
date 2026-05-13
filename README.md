@@ -1,7 +1,7 @@
 ​🛰️ AETERNA OS: Orbital AI Compute Node Simulation
 
 
-![Mission Success](IMG-20260513-WA0001.jpg)
+![Mission Success](IMG_20260513_222546.jpg)
 
 
 
