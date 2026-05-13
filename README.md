@@ -1,4 +1,5 @@
 ​🛰️ AETERNA OS: Orbital AI Compute Node Simulation
+![Mission Success](IMG-20260513-WA0001.jpg)
 ​Status: MISSION SUCCESS ✅ | Platform: TPU v5e-1
 ​Executive Overview
 ​This repository contains the successful proof-of-concept for an autonomous orbital AI compute node. As part of the AETERNA OS ecosystem, this simulation addresses the critical Earth-bound constraints of power and cooling by leveraging simulated space-based infrastructure.
